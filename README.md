@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 🙋🏻‍♂️, I'm David Palricas</h1>
+<h1 align="center">Hello There 🙋🏻‍♂️, I'm David Palricas 👨🏻‍💻</h1>
 <h4 align="center"><p>Highly motivated, cooperative, and focused Computer and Informatics Engineering student. </p>
     <p>I have a solid understanding of programming languages such as Python, Java, and C++, as well as skills in web development with HTML, CSS, JavaScript, frameworks like Bootstrap, Flask, and some libraries like React.js and Three.js.</p>
     <p></p>I am dedicated, organized, and capable of working both independently and in a team. I am seeking opportunities to apply and expand my knowledge in challenging projects while continuing to learn and grow in the field of computer science. </p></h4>
