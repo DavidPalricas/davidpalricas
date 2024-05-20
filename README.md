@@ -6,7 +6,7 @@ dedicated, organized, and capable of working both independently and in a team. I
 and expand my knowledge in challenging projects while continuing to learn and grow in the field of computer
 science. </h3>
 
-<img alt="coding-image" width=400 src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp">
+<img alt="coding-image" position="absolute" left="50%" width=400 src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidpalricas&label=Profile%20views&color=0e75b6&style=flat" alt="davidpalricas" /> </p>
 
