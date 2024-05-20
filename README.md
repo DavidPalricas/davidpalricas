@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20083
-Fork on GitHub6072
 <h1 align="center">Hi 👋, I'm David Palricas</h1>
 <h3 align="center">Highly motivated, cooperative, and focused Computer and Informatics Engineering student. I have a solid understanding of programming languages such as Python, Java, and C++, as well as skills in web development with HTML, CSS, JavaScript, frameworks like Bootstrap, Flask, and some libraries like React.js and Three.js. I am dedicated, organized, and capable of working both independently and in a team. I am seeking opportunities to apply and expand my knowledge in challenging projects while continuing to learn and grow in the field of computer science.</h3>
 
