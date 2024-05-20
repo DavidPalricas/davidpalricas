@@ -12,7 +12,7 @@ science. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpalricas" alt="davidpalricas" /></a> </p>
 
-- 🔭 I’m currently working on [an ANTLR4](Project)
+- 🔭 I’m currently working on an ANTLR4 Project 
 
 - 🌱 I’m currently learning **ANTLR4 and Java**
 
