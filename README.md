@@ -2,7 +2,7 @@
 <h3 align="center">Highly motivated, cooperative, and focused Computer and Informatics Engineering student. I have a solid understanding of programming languages such as Python, Java, and C++, as well as skills in web development with HTML, CSS, JavaScript, frameworks like Bootstrap, Flask, and some libraries like React.js and Three.js. I am dedicated, organized, and capable of working both independently and in a team. I am seeking opportunities to apply and expand my knowledge in challenging projects while continuing to learn and grow in the field of computer science.</h3>
 
 <div style="text-align: center;">
-    <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" alt="coding-image" width="400">
+    <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" alt="coding-image" width="600">
 </div>
 
 
