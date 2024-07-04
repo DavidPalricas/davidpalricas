@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my 3D portofolio**
 
-- 🌱 I’m currently learning **Three.JS**
+- 🌱 I’m currently learning **THREE.JS**
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
