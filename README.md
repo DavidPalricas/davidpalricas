@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpalricas" alt="davidpalricas" /></a> </p>
 
-- 🔭 I’m currently working on **my portofolio 3D**
+- 🔭 I’m currently working on **my 3D portofolio**
 
 - 🌱 I’m currently learning **Three.JS**
 
