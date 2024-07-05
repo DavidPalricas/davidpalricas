@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpalricas" alt="davidpalricas" /></a> </p>
 
-- 🔭 I’m currently working on **my 3D portofolio**
+- 🔭 I’m currently working on **my 3D portofolio and on a 2D game**
 
-- 🌱 I’m currently learning **THREE.JS**
+- 🌱 I’m currently learning **THREE.JS and Godot Engine**
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
