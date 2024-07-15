@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpalricas" alt="davidpalricas" /></a> </p>
 
-- 🔭 I’m currently working on **a 2D game**
+- 🔭 I’m currently working on ** a summer internship and on a 2D game**
 
-- 🌱 I’m currently learning **Godot Engine**
+- 🌱 I’m currently learning **Godot Engine and C# **
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
