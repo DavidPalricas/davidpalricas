@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **a summer internship**
 
-- 🌱 I’m currently learning ** C#**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
