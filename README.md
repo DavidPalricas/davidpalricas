@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpalricas" alt="davidpalricas" /></a> </p>
 
-- 🔭 I’m currently working on **a summer internship**
+- 🔭 I’m currently working on **my Master's Degree**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Python**
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
