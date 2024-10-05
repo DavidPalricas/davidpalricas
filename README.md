@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my Master's Degree**
 
-- 🌱 I’m currently learning **C# and Python**
+- 🌱 I’m currently learning **Unity,Pygame and PyOpenGL**
 
 - 📫 How to reach me **davipalricas22@gmail.com**
 
