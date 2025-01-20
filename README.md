@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 📫 How to reach me **davipalricas22@gmail.com**
+- 📫 How to reach me **davipalricas22@gmail.com** or **davidpalricas@ua.pt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
