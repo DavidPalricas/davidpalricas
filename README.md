@@ -3,7 +3,7 @@
     <p>I have a solid understanding of programming languages such as Python, Java, C# and C++, as well as skills in web development with HTML, CSS, JavaScript, frameworks like Bootstrap, Flask, and some libraries like React.js and Three.js.</p>
     <p></p>I am dedicated, organized, and capable of working both independently and in a team. I am seeking opportunities to apply and expand my knowledge in challenging projects while continuing to learn and grow in the field of computer science. </p></h4>
 
- <img align="center" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" alt="coding-image" width="400">
+<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
 
 
 
