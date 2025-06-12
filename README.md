@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my Master's Degree**
 
-- 🌱 I’m currently learning **Unity**, **Java**, **React + TS** and **Prolog**
+- 🌱 I’m currently learning **Unity**, **React + TS** and **Prolog**
 
 - 📫 How to reach me **davipalricas22@gmail.com** or **davidpalricas@ua.pt**
 
