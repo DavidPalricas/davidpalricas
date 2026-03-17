@@ -1,6 +1,6 @@
 # Hello There 👋, I'm David  Palricas
 
-### Game Developer
+###  XR and Game Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidPalricas&label=Profile views&color=0e75b6&style=flat" alt="DavidPalricas" /> </p>
 
